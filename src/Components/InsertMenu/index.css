@@ -1,0 +1,11 @@
+.centered-container {
+    align-items: center;
+    display: flex;
+    height: 14rem; /* Set the height to 100% of the viewport */
+  }
+
+.container{
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
